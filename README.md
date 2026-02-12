@@ -1,6 +1,7 @@
 # 🍃 Spring Boot JWT Boilerplate
 
-> **Spring Boot 3 + Spring Security + JWT + Redis + JPA** > 실무 수준의 인증/인가, 예외 처리, 로깅이 구현된 백엔드 보일러플레이트입니다.
+> **Spring Boot 3 + Spring Security + JWT + Redis + JPA**
+> 포트폴리오 및 사이드 프로젝트의 빠른 시작을 위한 백엔드 보일러플레이트입니다.
 
 <br>
 
